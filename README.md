@@ -60,6 +60,9 @@ Stores product SKUs and supports searching and tree traversal.
 ##  Project Details
 **Project Name:** StockWise – Inventory Management System
 
+**Project Developers:** Erragunta Aapthi Reddy
+                        Yennam Krithika Reddy
+
 **Domain:** Web Development and Data Structures
 
 **Project Type:** Academic Project
